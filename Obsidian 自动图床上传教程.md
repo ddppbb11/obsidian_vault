@@ -13,7 +13,7 @@ image auto upload插件搭配[PicGo](https://zhida.zhihu.com/search?content_id=1
 - # 【**插件安装**】
 	- ## 【安装PicGo工具】
 		下载[PicGo-Setup-2.4.0-beta.10.exe](https://picgo-release.molunerfinn.com/2.4.0-beta.10/PicGo-Setup-2.4.0-beta.10.exe)安装包（非STA 成员需要开梯子，STA 成员可以不用点开这个链接直接到 STA 网盘下就行，我已经下好放网盘了）
-		![Pasted image 20250410123002.png](https://i0.hdslb.com/bfs/article/7f76a6413dbc8ac37bbed6d769a286a1394687087.png)
+		![Pasted image 20250410123002.png|500](https://i0.hdslb.com/bfs/article/7f76a6413dbc8ac37bbed6d769a286a1394687087.png)
 
 		> **注意:** 安装完后点击运行只在右下角的任务栏中有一个图标，你需要点击这个图标才会进入下图所示的界面，出现如下所示的界面就说明安装成功。
 		![Pasted image 20250410125546.png](https://i0.hdslb.com/bfs/article/5eba87e5f2b17e3268d1fa22f2aac8d0394687087.png)
